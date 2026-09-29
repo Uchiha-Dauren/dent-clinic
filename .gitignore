@@ -1,0 +1,10 @@
+node_modules
+dist
+.env
+.sites-runtime
+*.log
+
+.data
+.env.*
+!.env.example
+*.sqlite*
