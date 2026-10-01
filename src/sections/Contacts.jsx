@@ -45,7 +45,7 @@ export default function Contacts() {
             className="map-card"
             aria-label={t('contacts.mapNote')}
           >
-            {/* TODO: Replace this neutral map placeholder with the verified 2GIS embed. */}
+            {}
             <div className="map-grid" />
             <div className="map-water" />
             <div className="map-road road-one" />
