@@ -1,0 +1,18 @@
+:root {
+  --bg: #101a32;
+  --bg-soft: #1b2945;
+  --ink: #edf0fb;
+  --ink-2: #d3d9ec;
+  --ink-3: #9faccb;
+  --muted: #a2aec9;
+  --line: #ffffff1a;
+  --silver-100: #eeebfb;
+  --silver-300: #c6bfeb;
+  --silver-500: #9d99c8;
+  --accent: #a89aec;
+  --success: #8ed5c4;
+  --error: #ff9c9c;
+  --font-body: 'Noto Sans Variable', 'Noto Sans', Arial, sans-serif;
+  --font-serif: 'Instrument Serif', Georgia, serif;
+  --radius: 32px;
+}
